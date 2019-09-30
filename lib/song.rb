@@ -11,3 +11,4 @@ class Song
     self.genre = genre if genre
     
   end
+end
